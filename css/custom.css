@@ -1,0 +1,16 @@
+.form-error {
+    color: red;
+    font-size: 12px;
+    padding: 5px;
+    display: none;
+}
+
+.error-message {
+    color: red;
+    padding: 5px;
+}
+
+.success-message {
+    color: green;
+    padding: 5px;
+}
